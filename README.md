@@ -31,6 +31,12 @@ Project is continued.
 - Week 3
   - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week3-md)
   - [Video](https://www.youtube.com/watch?v=gR6nycuZKlM)
+- Week 4
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week4-md)
+  - [Video](https://www.youtube.com/watch?v=NKTfNv2T0FE)
+- Week 5
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week5-md)
+  - [Video](https://www.youtube.com/watch?v=2T-A_GFuoTo)
 
 ## Contact
 
