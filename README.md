@@ -15,7 +15,7 @@ CS50, Introduction to Computer Science, is a course of Harvard University. The a
 
 ## Status
 
-Project is continued.
+Project is finished.
 
 ## Curriculum
 
@@ -37,6 +37,25 @@ Project is continued.
 - Week 5
   - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week5-md)
   - [Video](https://www.youtube.com/watch?v=2T-A_GFuoTo)
+- Week 6
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week6-md)
+  - [Video](https://www.youtube.com/watch?v=ZEQh45W_UDo)
+- Week 7
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week7-md)
+  - [Video](https://www.youtube.com/watch?v=Wb0DM9I8RDo)
+- Week 8
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week8-md)
+  - [Video](https://www.youtube.com/watch?v=5g0x2xv3aHU)
+- Week 8.5
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week8-5-md)
+  - [Video](https://www.youtube.com/watch?v=qFiAJ1sgYNU)
+- Week 9
+  - [Notes](https://gist.github.com/ozansulukpinar/2e991980900d770b036c0db77e99e0e6#file-week9-md)
+  - [Video](https://www.youtube.com/watch?v=x_c8pTW8ZUc)
+- Week 9.5
+  - [Video](https://www.youtube.com/watch?v=eey91kzfOZs)
+- Week 10
+  - [Video](https://www.youtube.com/watch?v=eNxMn7slmwI)
 
 ## Contact
 
